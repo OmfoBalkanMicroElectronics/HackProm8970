@@ -11,7 +11,7 @@ Bu projenin amacı, kapalı devre operatör cihazlarının donanım kısıtlamal
 * **İşlemci Mimarisi:** C-SKY (CK610M Çekirdeği) 32-bit SoC
 * **İşletim Sistemi Altyapısı:** Gömülü Linux (Buildroot framework)
 * **Grafik Motoru (UI):** LVGL (Light and Versatile Graphics Library) v9.x
-* **Geliştirme / Simülasyon Ortamı:** Windows Subsystem for Linux (WSL) / Ubuntu & VS Code
+* **Geliştirme / Simülasyon Ortamı:** Windows Subsystem for Linux (WSL) / Ubuntu & VS Code(OBMChain repomuzda bulunan toolchain/buildrootta dahildir.)
 
 ---
 
